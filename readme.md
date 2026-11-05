@@ -13,3 +13,8 @@ I am learning:
 - I created my first repository.
 - I made my first commit.
 - I am learning Git.
+## Profile Feature
+
+- User profile page
+- Edit personal information
+- Upload profile picture
